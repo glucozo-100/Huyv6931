@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Huyvu15&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 
 
-
+![Snake animation](https://github.com/Huyv6931/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
 
