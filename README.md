@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Huyvu15&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 
+### Số người ghé thăm trang 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/huyv6931/count.svg" />
+</p>
 
 
 
