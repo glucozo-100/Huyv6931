@@ -36,3 +36,16 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-huyvu15&color=green)
+
+
+#Statistic
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu15&theme=vue" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=huyvu15&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
