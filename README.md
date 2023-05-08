@@ -1,9 +1,4 @@
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Huyvu15&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 
----
-[![](https://visitcount.itsvg.in/api?id=huyvu15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"> 
   Visitor count<br>
@@ -29,15 +24,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-huyvu15&color=green)
 
 
-#Statistic
 
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu15&theme=vue" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
 
-![Vũ Huy Graph](https://github-readme-activity-graph.cyclic.app/graph?username=huyvu15&custom_title=Vu%20Huy%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <div align="center">
 <p>
@@ -52,6 +40,50 @@
 ![](https://raw.githubusercontent.com/huyvu15/huyvu15/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 
-### Productive time card
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=huyvu15&color=brightgreen" alt="watching_count" />
+ </p>
+  
+  
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello 🙏🏻, I'm Vũ Huy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ <h1 align="center">Hi 👋, I'm Vũ Huy <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+ 
+ 
+ <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/disorn-thitikornkovit-565526186/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/brightkut">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/brighteloy/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf">
+					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
+</div>
+
+
+<br/>
+
+
+
+<p align="center">
+  <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
+
+
+
+
