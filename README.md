@@ -111,5 +111,9 @@
 
 [![Vu Huy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huyvu15&theme=dracula)](https://github.com/huyvu15/github-readme-activity-graph)
 
+### Profile Views
+counting of visitors to this page in this section started from June 18, 2023
+
+![](https://count.getloli.com/get/@huyvu15.github.readme)
 
 
