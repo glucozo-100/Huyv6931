@@ -117,3 +117,7 @@ counting of visitors to this page in this section started from June 18, 2023
 ![](https://count.getloli.com/get/@huyvu15.github.readme)
 
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyvu15&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=default&utcOffset=8)
